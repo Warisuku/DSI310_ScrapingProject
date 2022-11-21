@@ -14,3 +14,6 @@ Before using prompt into folder by using `cd week03`
 use `scrapy crawl quotes -o FILENAME.csv` in this case โดย FILENAME is name & .csv is file type that you want
 <br>
 use `scrapy shell https://URL/` to test the target site
+
+### Guide on using Scrapy Selenium
+https://scrapeops.io/python-scrapy-playbook/scrapy-selenium/
