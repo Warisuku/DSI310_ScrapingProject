@@ -17,3 +17,5 @@ use `scrapy shell https://URL/` to test the target site
 
 ### Guide on using Scrapy Selenium
 https://scrapeops.io/python-scrapy-playbook/scrapy-selenium/
+<br>
+In case you're using other browser you can view their drivers here : https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/#quick-reference
